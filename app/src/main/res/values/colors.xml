@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+
+
+    <!-- SuperHeroApp -->
+    <color name="superhero_item_name">#8BA280AC</color>
+    <color name="superhero_text_name">#262527</color>
+    <color name="superhero_card_background">#828C97</color>
+
+    <color name="superhero_stat_intelligence">#91EA78</color>
+    <color name="superhero_stat_strength">#E64F4F</color>
+    <color name="superhero_stat_speed">#FFBD59</color>
+    <color name="superhero_stat_durability">#71C7ED</color>
+    <color name="superhero_stat_power">#FFF16D</color>
+    <color name="superhero_stat_combat">#BF9FF8</color>
+</resources>
